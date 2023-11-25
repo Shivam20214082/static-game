@@ -16,7 +16,7 @@ const instructionsMultiplayer = [
     "Instruction 5 for multiplayer",
     "Instruction 6 for multiplayer",
 ];
-
+// Open modal
 // Function to open modal with dynamic content
 document.querySelectorAll('.learn-button').forEach((learnButton) => {
     learnButton.addEventListener('click', function (event) {
